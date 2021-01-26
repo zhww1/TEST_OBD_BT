@@ -8,7 +8,7 @@
 ## TEST_OBD_BT  Version
 Version  | date |  Description
 ---------|-------|----------------------
-[V1.0.0.1] |2021/01/26/基于本公司硬件OBD-II 硬件，实现了Ping--Pong、CanConfig、ISO-TP 发送功能可以看到回传数据。
+[V1.0.0.1] |2021/01/26|基于本公司硬件OBD-II 硬件，实现了Ping--Pong、CanConfig、ISO-TP 发送功能可以看到回传数据。
 
 
 
